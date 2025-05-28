@@ -1,0 +1,404 @@
+Hari,Tanggal,Jenis Service,Layanan,Berat (g),Total Harga (Rp),Metode Pembayaran,Status Pembayaran,Durasi,Biaya Tambahan
+Senin,10/3/2025,Self Service,Cuci Setrika,,30000,Cash,Lunas,Normal,
+Senin,10/3/2025,Self Service,Cuci Kering,,120000,Cash,Lunas,Normal,
+Senin,10/3/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Senin,10/3/2025,Self Service,Cuci Kering,,30000,Transfer,Lunas,Normal,
+Senin,10/3/2025,Self Service,Cuci Kering,,30000,Transfer,Lunas,Normal,
+Senin,10/3/2025,Self Service,Cuci Kering,,60000,Transfer,Lunas,Normal,
+Senin,10/3/2025,Self Service,Cuci Setrika,,15000,Transfer,Lunas,Normal,
+Senin,10/3/2025,Regular Service,Cuci Lipat,3325,19950,Cash,Lunas,Normal,
+Senin,10/3/2025,Regular Service,Cuci Lipat,6530,39180,Cash,Lunas,Normal,
+Senin,10/3/2025,Regular Service,Cuci Lipat,7235,43410,Cash,Lunas,Normal,
+Selasa,11/3/2025,Self Service,Cuci Kering,,34000,Transfer,Lunas,Normal,4000
+Selasa,11/3/2025,Self Service,Cuci Setrika,,12000,Cash,Lunas,Normal,2000
+Selasa,11/3/2025,Self Service,Cuci Setrika,,15000,Cash,Lunas,Normal,
+Selasa,11/3/2025,Regular Service,Cuci Lipat,4270,25620,Cash,Lunas,Normal,
+Selasa,11/3/2025,Regular Service,Cuci Setrika,4265,69120,Transfer,Lunas,Normal,35000
+Selasa,11/3/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Selasa,11/3/2025,Regular Service,Cuci Lipat,3965,23790,Cash,Lunas,Normal,
+Selasa,11/3/2025,Regular Service,Cuci Lipat,3110,28660,Cash,Lunas,Normal,10000
+Selasa,11/3/2025,Regular Service,Cuci Setrika,7670,61360,Cash,Lunas,Normal,
+Rabu,12/3/2025,Self Service,Cuci Setrika,,15000,Cash,Lunas,Normal,
+Rabu,12/3/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Rabu,12/3/2025,Self Service,Cuci Kering,,32000,Transfer,Lunas,Normal,2000
+Rabu,12/3/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Rabu,12/3/2025,Self Service,Cuci Setrika,,15000,Cash,Lunas,Normal,
+Rabu,12/3/2025,Self Service,Cuci Kering,,34000,Cash,Lunas,Normal,4000
+Rabu,12/3/2025,Self Service,Cuci Kering,,34000,Cash,Lunas,Normal,4000
+Rabu,12/3/2025,Regular Service,Cuci Setrika,6015,48120,Transfer,Lunas,Normal,
+Rabu,12/3/2025,Regular Service,Cuci Lipat,2540,15240,Cash,Lunas,Normal,
+Rabu,12/3/2025,Regular Service,Cuci Lipat,6160,81960,Transfer,Lunas,Normal,45000
+Rabu,12/3/2025,Regular Service,Cuci Lipat,4030,24180,Transfer,Lunas,Normal,
+Kamis,13/3/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Kamis,13/3/2025,Self Service,Cuci Setrika,,15000,Cash,Lunas,Normal,
+Kamis,13/3/2025,Self Service,Cuci Setrika,,15000,Transfer,Lunas,Normal,
+Kamis,13/3/2025,Self Service,Cuci Kering,,34000,Transfer,Lunas,Normal,4000
+Kamis,13/3/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Kamis,13/3/2025,Self Service,Cuci Kering,,68000,Transfer,Lunas,Normal,8000
+Kamis,13/3/2025,Self Service,Cuci Setrika,,15000,Cash,Lunas,Normal,
+Kamis,13/3/2025,Self Service,Cuci Setrika,,15000,Transfer,Lunas,Normal,
+Kamis,13/3/2025,Self Service,Cuci Kering,,34000,Transfer,Lunas,Normal,4000
+Kamis,13/3/2025,Regular Service,Cuci Setrika,5925,47400,Cash,Lunas,Normal,
+Kamis,13/3/2025,Regular Service,Cuci Lipat,9040,79240,Cash,Lunas,Normal,25000
+Kamis,13/3/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Kamis,13/3/2025,Regular Service,Cuci Lipat,6840,71040,Transfer,Lunas,Normal,30000
+Kamis,13/3/2025,Regular Service,Cuci Lipat,6070,36420,Cash,Lunas,Normal,
+Kamis,13/3/2025,Regular Service,Cuci Setrika,12140,97120,Cash,Lunas,Normal,
+Kamis,13/3/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Kamis,13/3/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Jumat,14/3/2025,Self Service,Cuci Setrika,,36000,Cash,Lunas,Normal,6000
+Jumat,14/3/2025,Self Service,Cuci Kering,,36000,Cash,Lunas,Normal,6000
+Jumat,14/3/2025,Self Service,Cuci Kering,,30000,Transfer,Lunas,Normal,2000
+Jumat,14/3/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Jumat,14/3/2025,Self Service,Cuci Kering,,30000,Transfer,Lunas,Normal,
+Jumat,14/3/2025,Self Service,Cuci Kering,,60000,Cash,Lunas,Normal,
+Jumat,14/3/2025,Self Service,Cuci Kering,,30000,Transfer,Lunas,Normal,
+Jumat,14/3/2025,Self Service,Cuci Kering,,30000,Transfer,Lunas,Normal,
+Jumat,14/3/2025,Self Service,Cuci Kering,,38000,Transfer,Lunas,Normal,8000
+Jumat,14/3/2025,Regular Service,Cuci Setrika,3700,39600,Transfer,Lunas,Normal,10000
+Jumat,14/3/2025,Regular Service,Cuci Lipat,3800,22800,Transfer,Lunas,Normal,
+Jumat,14/3/2025,Regular Service,Cuci Lipat,7230,43380,Cash,Lunas,Normal,
+Jumat,14/3/2025,Regular Service,Cuci Lipat,7500,60000,Transfer,Lunas,Normal,
+Jumat,14/3/2025,Regular Service,Cuci Setrika,5560,44480,Transfer,Lunas,Normal,
+Jumat,14/3/2025,Regular Service,Cuci Setrika,5000,40000,Transfer,Lunas,Normal,
+Sabtu ,15/3/2025,Self Service,Cuci Kering,,60000,Cash,Lunas,Normal,
+Sabtu ,15/3/2025,Self Service,Cuci Kering,,38000,Cash,Lunas,Normal,8000
+Sabtu ,15/3/2025,Self Service,Cuci Kering,,36000,Transfer,Lunas,Normal,6000
+Sabtu ,15/3/2025,Self Service,Cuci Kering,,34000,Transfer,Lunas,Normal,4000
+Sabtu ,15/3/2025,Self Service,Cuci Setrika,,15000,Transfer,Lunas,Normal,
+Sabtu ,15/3/2025,Self Service,Cuci Kering,,34000,Cash,Lunas,Normal,4000
+Sabtu ,15/3/2025,Self Service,Cuci Kering,,30000,Transfer,Lunas,Normal,
+Sabtu ,15/3/2025,Self Service,Cuci Kering,,38000,Cash,Lunas,Normal,8000
+Sabtu ,15/3/2025,Self Service,Cuci Setrika,,15000,Cash,Lunas,Normal,
+Sabtu,15/3/2025,Regular Service,Cuci Lipat,5000,30000,Transfer,Lunas,Normal,
+Sabtu,15/3/2025,Regular Service,Cuci Setrika,6580,52640,Transfer,Lunas,Normal,
+Sabtu,15/3/2025,Regular Service,Cuci Lipat,6615,39690,Cash,Lunas,Normal,
+Sabtu,15/3/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Sabtu,15/3/2025,Regular Service,Cuci Lipat,5580,33480,Transfer,Lunas,Normal,
+Sabtu,15/3/2025,Regular Service,Cuci Lipat,7500,70000,Cash,Lunas,Normal,25000
+Sabtu,15/3/2025,Regular Service,Cuci Lipat,5675,34050,Cash,Lunas,Normal,
+Sabtu,15/3/2025,Regular Service,Cuci Lipat,6210,37260,Cash,Lunas,Normal,
+Sabtu,15/3/2025,Regular Service,Cuci Setrika,5045,40360,Cash,Lunas,Normal,
+Minggu,16/3/2025,Self Service,Cuci Kering,,30000,Transfer,Lunas,Normal,
+Minggu,16/3/2025,Self Service,Cuci Kering,,60000,Transfer,Lunas,Normal,
+Minggu,16/3/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Minggu,16/3/2025,Self Service,Cuci Setrika,,21000,Cash,Lunas,Normal,
+Minggu,16/3/2025,Self Service,Cuci Setrika,,17000,Transfer,Lunas,Normal,
+Minggu,16/3/2025,Self Service,Cuci Kering,,32000,Cash,Lunas,Normal,
+Minggu,16/3/2025,Self Service,Cuci Setrika,,15000,Cash,Lunas,Normal,
+Minggu,16/3/2025,Self Service,Cuci Setrika,,15000,Cash,Lunas,Normal,
+Minggu,16/3/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Minggu,16/3/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Minggu,16/3/2025,Self Service,Cuci Kering,,60000,Cash,Lunas,Normal,
+Minggu,16/3/2025,Self Service,Cuci Kering,,30000,Transfer,Lunas,Normal,
+Minggu,16/3/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Minggu,16/3/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Minggu,16/3/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Minggu,16/3/2025,Self Service,Cuci Setrika,,15000,Cash,Lunas,Normal,
+Minggu,16/3/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Minggu,16/3/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Minggu,16/3/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Minggu,16/3/2025,Regular Service,Cuci Lipat,3325,19950,Transfer,Lunas,Normal,
+Minggu,16/3/2025,Regular Service,Cuci Setrika,6692,53536,Cash,Lunas,Express,
+Minggu,16/3/2025,Regular Service,Cuci Lipat,7860,47160,Cash,Lunas,Normal,
+Minggu,16/3/2025,Regular Service,Cuci Kering,7995,239850,Cash,Lunas,Normal,
+Minggu,16/3/2025,Regular Service,Cuci Setrika,13275,106200,Cash,Lunas,Normal,50000
+Minggu,16/3/2025,Regular Service,Cuci Lipat,12375,74250,Transfer,Lunas,Normal,
+Minggu,16/3/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Minggu,16/3/2025,Regular Service,Cuci Lipat,5255,31530,Cash,Lunas,Normal,
+Minggu,16/3/2025,Regular Service,Cuci Lipat,3000,18000,Cash,Lunas,Normal,
+Minggu,16/3/2025,Regular Service,Cuci Setrika,14605,116840,Cash,Lunas,Normal,
+Senin,17/3/2025,Self Service,Cuci Kering,,34000,Cash,Lunas,Normal,
+Senin,17/3/2025,Self Service,Cuci setrika,,15000,Cash,Lunas,Normal,
+Senin,17/3/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Senin,17/3/2025,Regular Service,Cuci Setrika,15225,162000,Transfer,Lunas,Normal,40200
+Senin,17/3/2025,Regular Service,Setrika,5575,27875,Transfer,Lunas,Normal,
+Senin,17/3/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Senin,17/3/2025,Regular Service,Cuci Setrika,5000,35000,Cash,Lunas,Normal,
+Senin,17/3/2025,Regular Service,Cuci Lipat,4145,24870,Transfer,Lunas,Normal,
+Senin,17/3/2025,Regular Service,Cuci Lipat,10075,60450,Cash,Lunas,Normal,
+Senin,17/3/2025,Regular Service,Cuci Setrika,6185,49480,Cash,Lunas,Normal,
+Selasa,18/3/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Selasa,18/3/2025,Self Service,Cuci Setrika,,15000,Cash,Lunas,Normal,
+Selasa,18/3/2025,Regular Service,Cuci Setrika,5000,40000,Cash,Lunas,Normal,
+Selasa,18/3/2025,Regular Service,Cuci Kering,5000,25000,Transfer,Lunas,Normal,
+Selasa,18/3/2025,Regular Service,Cuci Lipat,5035,30000,Cash,Lunas,Normal,
+Selasa,18/3/2025,Regular Service,Setrika,6155,30775,Cash,Lunas,Normal,
+Selasa,18/3/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Selasa,18/3/2025,Regular Service,Cuci Lipat,3850,23100,Cash,Lunas,Normal,
+Selasa,18/3/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Selasa,18/3/2025,Regular Service,Cuci Setrika,5000,40000,Transfer,Lunas,Normal,
+Selasa,18/3/2025,Regular Service,Cuci Lipat,5110,30660,Cash,Lunas,Normal,
+Selasa,18/3/2025,Regular Service,Cuci Setrika,6795,54360,Cash,Lunas,Normal,
+Rabu,19/3/2025,Self Service,Cuci Kering,,40000,Transfer,Lunas,Normal,10000
+Rabu,19/3/2025,Self Service,Cuci Kering,,34000,Cash,Lunas,Normal,4000
+Rabu,19/3/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Rabu,19/3/2025,Regular Service,Cuci Lipat,6015,36090,Transfer,Lunas,Normal,
+Rabu,19/3/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Rabu,19/3/2025,Regular Service,Cuci Setrika,5000,40000,Cash,Lunas,Normal,
+Rabu,19/3/2025,Regular Service,Cuci Lipat,7530,45180,Cash,Lunas,Normal,
+Rabu,19/3/2025,Regular Service,Cuci Lipat,8215,49290,Cash,Lunas,Normal,
+Rabu,19/3/2025,Regular Service,Cuci Lipat,4335,26010,Transfer,Lunas,Normal,
+Kamis,20/3/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Kamis,20/3/2025,Regular Service,Cuci Setrika,14830,103810,Cash,Lunas,Normal,
+Kamis,20/3/2025,Regular Service,Cuci Lipat,5290,31000,Transfer,Lunas,Normal,
+Kamis,20/3/2025,Regular Service,Cuci Lipat,10515,63000,Cash,Lunas,Normal,
+Kamis,20/3/2025,Regular Service,Cuci Lipat,5220,31000,Cash,Lunas,Normal,
+Kamis,20/3/2025,Regular Service,Cuci Setrika,3000,21000,Cash,Lunas,Normal,
+Kamis,20/3/2025,Regular Service,Cuci Lipat,5325,31950,Cash,Lunas,Normal,
+Kamis,20/3/2025,Regular Service,Cuci Lipat,5000,30000,Transfer,Lunas,Normal,
+Jumat,21/3/2025,Self Service,Cuci Kering,,34000,Cash,Lunas,Normal,4000
+Jumat,21/3/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Jumat,21/3/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Jumat,21/3/2025,Self Service,Cuci Setrika,,19000,Cash,Lunas,Normal,4000
+Jumat,21/3/2025,Self Service,Cuci Setrika,,15000,Transfer,Lunas,Normal,
+Jumat,21/3/2025,Self Service,Cuci Kering,,30000,Transfer,Lunas,Normal,
+Jumat,21/3/2025,Self Service,Cuci Setrika,,15000,Transfer,Lunas,Normal,8000
+Jumat,21/3/2025,Self Service,Cuci Kering,,38000,Cash,Lunas,Normal,8000
+Jumat,21/3/2025,Regular Service,Cuci Setrika,6770,40000,Cash,Lunas,Normal,
+Jumat,21/3/2025,Regular Service,Cuci Setrika,5000,75000,Cash,Lunas,Normal,
+Jumat,21/3/2025,Regular Service,Cuci Setrika,5000,40000,Cash,Lunas,Normal,35000
+Jumat,21/3/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Jumat,21/3/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Jumat,21/3/2025,Regular Service,Cuci Lipat,3000,28000,Cash,Lunas,Normal,10000
+Jumat,21/3/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Jumat,21/3/2025,Regular Service,Cuci Lipat,4545,54480,Cash,Lunas,Express,
+Jumat,21/3/2025,Regular Service,Cuci Setrika,3145,22015,Cash,Lunas,Normal,
+Jumat,21/3/2025,Regular Service,Cuci Setrika,3765,30000,Cash,Lunas,Normal,
+Jumat,21/3/2025,Regular Service,Cuci Lipat,6080,36480,Cash,Lunas,Normal,
+Jumat,21/3/2025,Regular Service,Cuci Setrika,8755,70000,Cash,Lunas,Normal,
+Jumat,21/3/2025,Regular Service,Cuci Lipat,7685,46110,Transfer,Lunas,Normal,
+Sabtu ,22/3/2025,Self Service,Cuci Kering,,34000,Transfer,Lunas,Normal,4000
+Sabtu ,22/3/2025,Self Service,Cuci Kering,,34000,Transfer,Lunas,Normal,4000
+Sabtu ,22/3/2025,Self Service,Cuci Setrika,,15000,Cash,Lunas,Normal,
+Sabtu ,22/3/2025,Self Service,Cuci Kering,,38000,Cash,Lunas,Normal,8000
+Sabtu ,22/3/2025,Self Service,Cuci Kering,,34000,Cash,Lunas,Normal,4000
+Sabtu ,22/3/2025,Self Service,Cuci Kering,,50000,Cash,Lunas,Normal,20000
+Sabtu ,22/3/2025,Self Service,Cuci Kering,,32000,Transfer,Lunas,Normal,2000
+Sabtu,22/3/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Sabtu,22/3/2025,Regular Service,Cuci Setrika,9205,79435,Cash,Lunas,Normal,15000
+Sabtu,22/3/2025,Regular Service,Cuci Lipat,5000,30000,Transfer,Lunas,Normal,
+Sabtu,22/3/2025,Regular Service,Cuci Setrika,6910,55280,Transfer,Lunas,Normal,
+Sabtu,22/3/2025,Regular Service,Cuci Setrika,6370,89000,Cash,Lunas,Express,
+Sabtu,22/3/2025,Regular Service,Cuci Setrika,5000,35000,Transfer,Lunas,Normal,
+Sabtu,22/3/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Minggu,23/3/2025,Self Service,Cuci Kering,,34000,Cash,Lunas,Normal,4000
+Minggu,23/3/2025,Self Service,Cuci Kering,,30000,Transfer,Lunas,Normal,
+Minggu,23/3/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Minggu,23/3/2025,Self Service,Cuci Kering,,60000,Transfer,Lunas,Normal,
+Minggu,23/3/2025,Self Service,Cuci Kering,,64000,Cash,Lunas,Normal,4000
+Minggu,23/3/2025,Self Service,Cuci Kering,,38000,Cash,Lunas,Normal,8000
+Minggu,23/3/2025,Self Service,Cuci Kering,,60000,Transfer,Lunas,Normal,
+Minggu,23/3/2025,Self Service,Cuci Kering,,60000,Transfer,Lunas,Normal,
+Minggu,23/3/2025,Regular Service,Cuci Setrika,16590,116130,Cash,Lunas,Normal,
+Minggu,23/3/2025,Regular Service,Cuci Setrika,5000,110000,Cash,Lunas,Normal,70000
+Minggu,23/3/2025,Regular Service,Cuci Setrika,5900,102600,Transfer,Lunas,Express,20000
+Minggu,23/3/2025,Regular Service,Cuci Setrika,7850,109900,Cash,Lunas,Express,
+Minggu,23/3/2025,Regular Service,Cuci Lipat,8035,80350,Cash,Lunas,Express,
+Minggu,23/3/2025,Regular Service,Cuci Setrika,7450,59600,Cash,Lunas,Normal,
+Minggu,23/3/2025,Regular Service,Cuci Setrika,5430,43440,Cash,Lunas,Normal,
+Minggu,23/3/2025,Regular Service,Cuci Lipat,3505,21030,Cash,Lunas,Normal,
+Minggu,23/3/2025,Regular Service,Setrika,13715,82290,Cash,Lunas,Normal,
+Senin,24/3/2025,Self Service,Cuci Kering,,76000,Cash,Lunas,Normal,16000
+Senin,24/3/2025,Self Service,Cuci Kering,,38000,Transfer,Lunas,Normal,8000
+Senin,24/3/2025,Self Service,Cuci Setrika,,15000,Transfer,Lunas,Normal,
+Senin,24/3/2025,Self Service,Cuci Kering,,38000,Cash,Lunas,Normal,8000
+Senin,24/3/2025,Self Service,Cuci Kering,,34000,Cash,Lunas,Normal,4000
+Senin,24/3/2025,Self Service,Cuci Kering,,38000,Cash,Lunas,Normal,8000
+Senin,24/3/2025,Self Service,Cuci Kering,,36000,Cash,Lunas,Normal,6000
+Senin,24/3/2025,Regular Service,Cuci Lipat,7940,47640,Transfer,Lunas,Normal,
+Senin,24/3/2025,Regular Service,Cuci Lipat,5950,35700,Transfer,Lunas,Normal,
+Senin,24/3/2025,Regular Service,Cuci Setrika,5000,40000,Transfer,Lunas,Normal,
+Selasa,25/3/2025,Self Service,Cuci Kering,,30000,QRIS,Lunas,Normal,
+Selasa,25/3/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Selasa,25/3/2025,Self Service,Cuci Kering,,38000,Cash,Lunas,Normal,8000
+Selasa,25/3/2025,Self Service,Cuci Kering,,60000,Cash,Lunas,Normal,
+Selasa,25/3/2025,Self Service,Cuci Kering,,34000,Cash,Lunas,Normal,4000
+Selasa,25/3/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Selasa,25/3/2025,Self Service,Cuci Kering,,30000,QRIS,Lunas,Normal,
+Selasa,25/3/2025,Self Service,Cuci Kering,,34000,QRIS,Lunas,Normal,4000
+Selasa,25/3/2025,Regular Service,Cuci Setrika,13300,93100,Cash,Lunas,Normal,
+Selasa,25/3/2025,Regular Service,Cuci Setrika,20140,140980,QRIS,Lunas,Normal,
+Selasa,25/3/2025,Regular Service,Cuci Lipat,9400,56400,Cash,Lunas,Normal,
+Selasa,25/3/2025,Regular Service,Cuci Lipat,6900,41400,Cash,Lunas,Normal,
+Selasa,25/3/2025,Regular Service,Cuci Lipat,6600,39600,QRIS,Lunas,Normal,
+Selasa,25/3/2025,Regular Service,Cuci Lipat,9680,93080,Cash,Lunas,Normal,35000
+Selasa,25/3/2025,Regular Service,Cuci Lipat,3100,18600,Cash,Lunas,Normal,
+Selasa,25/3/2025,Regular Service,Setrika,5080,25400,Cash,Lunas,Normal,
+Selasa,25/3/2025,Regular Service,Cuci Setrika,6600,72800,Cash,Lunas,Normal,20000
+Selasa,25/3/2025,Regular Service,Cuci Setrika,4290,54320,Cash,Lunas,Normal,20000
+Selasa,25/3/2025,Regular Service,Cuci Setrika,8600,69230,Cash,Lunas,Normal,
+Selasa,25/3/2025,Regular Service,Cuci Lipat,7700,43440,Cash,Lunas,Normal,
+Rabu,26/3/2025,Self Service,Cuci Kering,,30000,QRIS,Lunas,Normal,
+Rabu,26/3/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Rabu,26/3/2025,Self Service,Cuci Setrika,,15000,Cash,Lunas,Normal,
+Rabu,26/3/2025,Self Service,Cuci Setrika,,15000,Cash,Lunas,Normal,
+Rabu,26/3/2025,Self Service,Cuci Kering,,32000,Cash,Lunas,Normal,2000
+Rabu,26/3/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Rabu,26/3/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Rabu,26/3/2025,Self Service,Cuci Kering,,30000,QRIS,Lunas,Normal,
+Rabu,26/3/2025,Self Service,Cuci Kering,,15000,QRIS,Lunas,Normal,
+Rabu,26/3/2025,Self Service,Cuci Setrika,,30000,QRIS,Lunas,Normal,
+Rabu,26/3/2025,Regular Service,Cuci Lipat,5000,30000,Transfer,Lunas,Normal,
+Rabu,26/3/2025,Regular Service,Cuci Lipat,3900,47000,Cash,Lunas,Express,
+Rabu,26/3/2025,Regular Service,Cuci Lipat,3000,30000,QRIS,Lunas,Express,
+Rabu,26/3/2025,Regular Service,Cuci Setrika,6100,48800,Cash,Lunas,Normal,
+Rabu,26/3/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Rabu,26/3/2025,Regular Service,Cuci Setrika,7300,58920,Cash,Lunas,Normal,
+Rabu,26/3/2025,Regular Service,Cuci Setrika,7600,60850,Cash,Lunas,Normal,
+Rabu,26/3/2025,Regular Service,Cuci Lipat,5200,31440,QRIS,Lunas,Normal,
+Rabu,26/3/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Rabu,26/3/2025,Regular Service,Cuci Lipat,6100,36810,Cash,Lunas,Normal,
+Rabu,26/3/2025,Regular Service,Cuci Setrika,3000,24000,Cash,Lunas,Normal,
+Rabu,26/3/2025,Regular Service,Cuci Lipat,9500,57000,QRIS,Lunas,Normal,
+Rabu,26/3/2025,Regular Service,Cuci Setrika,9290,74320,Cash,Lunas,Express,
+Rabu,26/3/2025,Regular Service,Cuci Setrika,6500,52000,QRIS,Lunas,Normal,
+Rabu,26/3/2025,Regular Service,Cuci Lipat,5000,30000,QRIS,Lunas,Normal,
+Rabu,26/3/2025,Regular Service,Cuci Setrika,5000,40000,QRIS,Lunas,Express,
+Kamis,27/3/2025,Self Service,Cuci Setrika,,15000,Cash,Lunas,Normal,
+Kamis,27/3/2025,Self Service,Cuci Kering,,34000,Cash,Lunas,Normal,4000
+Kamis,27/3/2025,Self Service,Cuci Kering,,60000,Cash,Lunas,Normal,
+Kamis,27/3/2025,Regular Service,Cuci Lipat,3500,30000,Cash,Lunas,Normal,
+Kamis,27/3/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Kamis,27/3/2025,Regular Service,Setrika,3700,25000,Cash,Lunas,Normal,
+Kamis,27/3/2025,Regular Service,Cuci Setrika,4200,40000,Cash,Lunas,Normal,
+Kamis,27/3/2025,Regular Service,Cuci Lipat,3000,18000,Cash,Lunas,Normal,
+Kamis,27/3/2025,Regular Service,Cuci Setrika,15370,123000,Cash,Lunas,Normal,
+Kamis,27/3/2025,Regular Service,Setrika,3800,22800,Cash,Lunas,Normal,
+Kamis,27/3/2025,Regular Service,Cuci Setrika,5010,40080,Cash,Lunas,Normal,
+Kamis,27/3/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Kamis,27/3/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Jumat,28/3/2025,Self Service,Cuci Setrika,,19000,QRIS,Lunas,Normal,4000
+Jumat,28/3/2025,Self Service,Cuci Kering,,42000,QRIS,Lunas,Normal,12000
+Jumat,28/3/2025,Self Service,Cuci Setrika,,15000,Cash,Lunas,Normal,
+Jumat,28/3/2025,Self Service,Cuci Kering,,60000,Cash,Lunas,Normal,
+Jumat,28/3/2025,Self Service,Cuci Kering,,34000,Cash,Lunas,Normal,4000
+Jumat,28/3/2025,Regular Service,Cuci Setrika,5000,40000,Cash,Lunas,Normal,
+Jumat,28/3/2025,Regular Service,Cuci Setrika,8500,78680,Cash,Lunas,Normal,
+Jumat,28/3/2025,Regular Service,Cuci Kering,8600,43000,Cash,Lunas,Normal,
+Jumat,28/3/2025,Regular Service,Cuci Setrika,7600,60000,Cash,Lunas,Normal,
+Jumat,28/3/2025,Regular Service,Cuci Setrika,5000,40000,Cash,Lunas,Normal,
+Jumat,28/3/2025,Regular Service,Cuci Lipat,5000,55000,Cash,Lunas,Normal,
+Jumat,28/3/2025,Regular Service,Cuci Setrika,7600,61360,Cash,Lunas,Normal,
+Jumat,28/3/2025,Regular Service,Cuci Setrika,5000,40000,Cash,Lunas,Normal,
+Jumat,28/3/2025,Regular Service,Cuci Setrika,5000,40000,Cash,Lunas,Normal,
+Jumat,28/3/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Sabtu ,29/3/2025,Self Service,Cuci Kering,,60000,Cash,Lunas,Normal,
+Sabtu ,29/3/2025,Self Service,Cuci Kering,,68000,Cash,Lunas,Normal,8000
+Sabtu ,29/3/2025,Self Service,Cuci Setrika,,15000,Cash,Lunas,Normal,
+Sabtu ,29/3/2025,Self Service,Cuci Setrika,,17000,Cash,Lunas,Normal,2000
+Sabtu ,29/3/2025,Self Service,Cuci Kering,,34000,Cash,Lunas,Normal,4000
+Sabtu ,29/3/2025,Self Service,Cuci Kering,,150000,Cash,Lunas,Normal,
+Sabtu ,29/3/2025,Self Service,Cuci Kering,,60000,QRIS,Lunas,Normal,
+Sabtu ,29/3/2025,Self Service,Cuci Kering,,34000,QRIS,Lunas,Normal,4000
+Sabtu ,29/3/2025,Self Service,Cuci Kering,,60000,Cash,Lunas,Normal,
+Sabtu ,29/3/2025,Self Service,Cuci Kering,,38000,Cash,Lunas,Normal,80000
+Sabtu,29/3/2025,Regular Service,Cuci Setrika,6900,48370,Cash,Lunas,Normal,
+Sabtu,29/3/2025,Regular Service,Cuci Lipat,5000,30500,Cash,Lunas,Normal,
+Kamis,3/4/2025,Self Service,Cuci Kering,,30000,QRIS,Lunas,Normal,
+Kamis,3/4/2025,Self Service,Cuci Setrika,,15000,Cash,Lunas,Normal,
+Kamis,3/4/2025,Self Service,Cuci Kering,,30000,QRIS,Lunas,Normal,
+Kamis,3/4/2025,Self Service,Cuci Kering,,34000,QRIS,Lunas,Normal,4000
+Kamis,3/4/2025,Self Service,Cuci Kering,,36000,QRIS,Lunas,Normal,6000
+Kamis,3/4/2025,Self Service,Cuci Kering,,40000,QRIS,Lunas,Normal,10000
+Kamis,3/4/2025,Regular Service,Cuci Lipat,12300,125350,Cash,Lunas,Express,
+Kamis,3/4/2025,Regular Service,Cuci Lipat,13400,80580,Cash,Lunas,Normal,
+Kamis,3/4/2025,Regular Service,Cuci Setrika,8800,71120,Cash,Lunas,Normal,
+Kamis,3/4/2025,Regular Service,Cuci Setrika,3410,47740,Cash,Lunas,Express,
+Kamis,3/4/2025,Regular Service,Cuci Setrika,8190,65520,Cash,Lunas,Normal,
+Kamis,3/4/2025,Regular Service,Cuci Lipat,14520,102120,QRIS,Lunas,Normal,
+Kamis,3/4/2025,Regular Service,Cuci Lipat,4300,51600,Cash,Lunas,Express,
+Kamis,3/4/2025,Regular Service,Cuci Lipat,8890,53340,Cash,Lunas,Normal,
+Kamis,3/4/2025,Regular Service,Cuci Setrika,4300,34400,Cash,Lunas,Normal,
+Kamis,3/4/2025,Regular Service,Cuci Setrika,3000,24000,Cash,Lunas,Normal,
+Kamis,3/4/2025,Regular Service,Cuci Setrika,5000,40000,Cash,Lunas,Normal,
+Jumat,3/4/2026,Self Service,Cuci Kering,,34000,Cash,Lunas,Normal,4000
+Jumat,4/4/2025,Self Service,Cuci Kering,,76000,Cash,Lunas,Normal,16000
+Jumat,4/4/2025,Self Service,Cuci Kering,,38000,QRIS,Lunas,Normal,8000
+Jumat,4/4/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Jumat,4/4/2025,Regular Service,Cuci Setrika,5000,40000,Cash,Lunas,Normal,
+Jumat,4/4/2025,Regular Service,Cuci Setrika,12800,180000,Cash,Lunas,Express,
+Jumat,4/4/2025,Regular Service,Cuci Setrika,6000,48720,Cash,Lunas,Normal,
+Jumat,4/4/2025,Regular Service,Setrika,4000,23200,Cash,Lunas,Normal,
+Jumat,4/4/2025,Regular Service,Cuci Setrika,5000,40000,Cash,Lunas,Normal,
+Jumat,4/4/2025,Regular Service,Cuci Setrika,9600,101800,Cash,Lunas,Normal,
+Jumat,4/4/2025,Regular Service,Cuci Setrika,8140,65120,Cash,Lunas,Normal,
+Jumat,4/4/2025,Regular Service,Cuci Lipat,8150,49000,Cash,Lunas,Normal,
+Jumat,4/4/2025,Regular Service,Cuci Lipat,3500,30000,Cash,Lunas,Normal,
+Jumat,4/4/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Jumat,4/4/2025,Regular Service,Cuci Lipat,6600,40000,Cash,Lunas,Normal,
+Jumat,4/4/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Jumat,4/4/2025,Regular Service,Cuci Setrika,12170,97360,Cash,Lunas,Normal,
+Jumat,4/4/2025,Regular Service,Cuci Setrika,5300,43000,Cash,Lunas,Normal,
+Jumat,4/4/2025,Regular Service,Cuci Setrika,5000,40000,Cash,Lunas,Normal,
+Sabtu ,5/4/2025,Self Service,Cuci Kering,,40000,QRIS,Lunas,Normal,10000
+Sabtu ,5/4/2025,Self Service,Cuci Kering,,32000,Cash,Lunas,Normal,2000
+Sabtu ,5/4/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Sabtu ,5/4/2025,Self Service,Cuci Kering,,38000,QRIS,Lunas,Normal,8000
+Sabtu,5/4/2025,Regular Service,Cuci Lipat,8200,82950,Cash,Lunas,Express,
+Sabtu,5/4/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Sabtu,5/4/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Sabtu,5/4/2025,Regular Service,Cuci Lipat,6000,37320,Cash,Lunas,Normal,
+Sabtu,5/4/2025,Regular Service,Cuci Lipat,8200,44000,Cash,Lunas,Normal,
+Sabtu,5/4/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Sabtu,5/4/2025,Regular Service,Cuci Lipat,6400,36240,Cash,Lunas,Normal,
+Minggu,6/4/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Minggu,6/4/2025,Self Service,Cuci Kering,,120000,Cash,Lunas,Normal,
+Minggu,6/4/2025,Self Service,Cuci Kering,,60000,Cash,Lunas,Normal,
+Minggu,6/4/2025,Self Service,Cuci Kering,,36000,Cash,Lunas,Normal,6000
+Minggu,6/4/2025,Regular Service,Cuci Lipat,4400,50000,Cash,Lunas,Express,
+Minggu,6/4/2025,Regular Service,Cuci Lipat,6500,39510,Cash,Lunas,Normal,
+Minggu,6/4/2025,Regular Service,Cuci Lipat,5600,33900,Cash,Lunas,Normal,
+Minggu,6/4/2025,Regular Service,Cuci Setrika,9085,72680,Cash,Lunas,Normal,
+Minggu,6/4/2025,Regular Service,Cuci Setrika,5035,40280,QRIS,Lunas,Normal,
+Minggu,6/4/2025,Regular Service,Cuci Setrika,7000,54040,Cash,Lunas,Normal,
+Senin,7/4/2025,Self Service,Cuci Kering,,90000,Cash,Lunas,Normal,
+Senin,7/4/2025,Self Service,Cuci Kering,,38000,Cash,Lunas,Normal,8000
+Senin,7/4/2025,Self Service,Cuci Kering,,80000,Cash,Lunas,Normal,
+Senin,7/4/2025,Self Service,Cuci Kering,,60000,Cash,Lunas,Normal,
+Senin,7/4/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Senin,7/4/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Senin,7/4/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Senin,7/4/2025,Regular Service,Cuci Lipat,8000,30000,Cash,Lunas,Normal,
+Senin,7/4/2025,Regular Service,Bedcover,,25000,Cash,Lunas,Normal,
+Senin,7/4/2025,Regular Service,Bedcover,,55000,QRIS,Lunas,Normal,
+Senin,7/4/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Senin,7/4/2025,Regular Service,Cuci Setrika,9400,75960,Cash,Lunas,Normal,
+Senin,7/4/2025,Regular Service,Cuci Lipat,5000,30000,QRIS,Lunas,Normal,
+Senin,7/4/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Senin,7/4/2025,Regular Service,Setrika,5000,30000,Cash,Lunas,Normal,
+Selasa,8/4/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Selasa,8/4/2025,Self Service,Cuci Setrika,,15000,Cash,Lunas,Normal,
+Selasa,8/4/2025,Self Service,Cuci Kering,,39000,Cash,Lunas,Normal,9000
+Selasa,8/4/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Selasa,8/4/2025,Self Service,Cuci Kering,,34000,Cash,Lunas,Normal,4000
+Selasa,8/4/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Selasa,8/4/2025,Regular Service,Cuci Setrika,,242500,Cash,Lunas,Normal,
+Selasa,8/4/2025,Regular Service,Cuci Setrika,7600,61240,Cash,Lunas,Normal,
+Selasa,8/4/2025,Regular Service,Cuci Setrika,7800,87400,Cash,Lunas,Normal,25000
+Selasa,8/4/2025,Regular Service,Cuci Kering,5000,25000,Cash,Lunas,Normal,
+Selasa,8/4/2025,Regular Service,Selimut,,15000,Cash,Lunas,Normal,
+Selasa,8/4/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Selasa,8/4/2025,Regular Service,Cuci Lipat,3400,34250,Cash,Lunas,Express,
+Selasa,8/4/2025,Regular Service,Cuci Lipat,3200,30000,Cash,Lunas,Normal,
+Selasa,8/4/2025,Regular Service,Sprei Selimut,,65000,Cash,Lunas,Normal,
+Selasa,8/4/2025,Regular Service,Bedcover,,62000,Cash,Lunas,Normal,
+Rabu,9/4/2025,Self Service,Cuci Kering,,60000,Cash,Lunas,Normal,
+Rabu,9/4/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Rabu,9/4/2025,Self Service,Cuci Kering,,36000,Cash,Lunas,Normal,6000
+Rabu,9/4/2025,Self Service,Cuci Setrika,,15000,Cash,Lunas,Normal,
+Rabu,9/4/2025,Self Service,Cuci Kering,,68000,Cash,Lunas,Normal,8000
+Rabu,9/4/2025,Self Service,Cuci Kering,,40000,Cash,Lunas,Normal,10000
+Rabu,9/4/2025,Regular Service,Cuci Lipat,3000,30000,QRIS,Lunas,Express,
+Rabu,9/4/2025,Regular Service,Cuci Setrika,13300,141000,Cash,Lunas,Normal,
+Rabu,9/4/2025,Regular Service,Cuci Lipat,3000,30000,Cash,Lunas,Express,
+Rabu,9/4/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Rabu,9/4/2025,Regular Service,Cuci Setrika,8300,66560,Cash,Lunas,Normal,
+Kamis,10/4/2025,Self Service,Cuci Setrika,,15000,Cash,Lunas,Normal,
+Kamis,10/4/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Kamis,10/4/2025,Self Service,Cuci Kering,,34000,Cash,Lunas,Normal,4000
+Kamis,10/4/2025,Self Service,Cuci Kering,,30000,Cash,Lunas,Normal,
+Kamis,10/4/2025,Regular Service,Cuci Lipat,5000,30000,Cash,Lunas,Normal,
+Kamis,10/4/2025,Regular Service,Cuci Lipat,5300,31800,QRIS,Lunas,Normal,
+Kamis,10/4/2025,Regular Service,Cuci Setrika,5100,41000,Cash,Lunas,Normal,
+Kamis,10/4/2025,Regular Service,Cuci Setrika,5000,40000,Cash,Lunas,Normal,25000
